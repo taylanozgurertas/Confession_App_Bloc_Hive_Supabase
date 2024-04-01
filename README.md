@@ -1,7 +1,6 @@
 # Confession App
 
-This is my project and it has Solid Clean Architecture implementation. 
-This project can be used for starting a project which has an auth feature. 
+It has Solid Clean Architecture implementation. 
 
 It contains:
 
